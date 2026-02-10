@@ -123,6 +123,10 @@
     <p>
         For material submission or corrections:<br>
         <b>Lab CR – Vishwajit Shep</b><br>
+        <b>Lab CR – Gauri Kadam</b><br>
+        <b>Lab CR – Deepika Jaybhaye</b><br>
+        <b>Lab CR – Shubham Andhale</b><br> 
+        <b>Lab Incharge – Lect.Suryavanshi Ram sir</b><br>
         Vilasrao Deshmukh Government College of Nursing
     </p>
 </section>
@@ -135,4 +139,4 @@
 </footer>
 
 </body>
-</html>
+</html>    
